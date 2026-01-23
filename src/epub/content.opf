@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ellis-parker-butler/jibby-jones</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-23T21:43:30Z</dc:date>
+		<meta property="dcterms:modified">2026-01-23T21:43:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Jibby Jones</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">Five boys who live near the Mississippi River have adventures on their quest to find hidden pirate treasure.</dc:description>
+		<dc:description id="description">Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The narrator and his friends, Tad, Skippy, and Wampus, enjoy a calm but playful life in the small riverside community of Birch Island. One day, a strange boy comes to live on the island and tries to make their acquaintance. Introducing himself as Oliver Parmenter Jones, or “Jibby Jones” due to his prominent nose, he quickly becomes a part of the group after fixing a motorboat and sharing incredible stories of the places he has been and what he’s able to do with his peculiar features. Despite some initial apprehension, Jibby proves to be a valuable friend and someone to enjoy hijinks and adventures with, as well as serving as the occasional target of innocent pranks and exaggerated tales.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Jibby Jones&lt;/i&gt; compiles twenty-four stories first published between 1921 and 1923 for &lt;i&gt;American Boy&lt;/i&gt; magazine recounting the Riverbank Boys’ quest to discover the treasure of infamous land pirate John &lt;abbr&gt;A.&lt;/abbr&gt; Murrell after coming across two mean-looking men who trespassed onto the island during the night. With a crudely drawn map serving as the only way to reach the treasure’s hiding spot, the boys must piece together the mystery based on their knowledge of the region and the surrounding area, building up their strength, sense of responsibility, and trust in one another while facing the troubles that come along with such an exciting crusade.&lt;/p&gt;
+			&lt;p&gt;The narrator and his friends, Tad, Skippy, and Wampus, enjoy a calm but playful life in the small community of Birch Island along the Mississippi River. One day, a strange boy who has come to live on their island tries to make their acquaintance. Introducing himself as Oliver Parmenter Jones, or “Jibby Jones” due to his prominent nose, he quickly joins the group after fixing a motorboat and sharing incredible stories of the places he’s been. Despite the group’s initial apprehension, Jibby proves to be a valuable friend: someone to enjoy hijinks and adventures with, while also enduring the occasional innocent prank and exaggerated tale.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Jibby Jones&lt;/i&gt; is a rewrite of twenty-four stories first published between 1921 and 1923 for &lt;i&gt;American Boy&lt;/i&gt; magazine recounting the Riverbank Boys’ quest to discover the treasure of infamous pirate John A. Murrell. With a crudely drawn map serving as their only guide to the treasure, the boys must solve the mystery using their knowledge of the region, all while building up their strength, sense of responsibility, and trust in one another as they face the challenges inherent an exciting quest.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76547</dc:source>
 		<dc:source>https://archive.org/details/jibbyjonesstoryo00butl_0</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">67118</meta>
+		<meta property="se:reading-ease.flesch">89.08</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ellis-parker-butler_jibby-jones</meta>
 		<dc:creator id="author">Ellis Parker Butler</dc:creator>
 		<meta property="file-as" refines="#author">Butler, Ellis Parker</meta>
@@ -89,6 +88,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
