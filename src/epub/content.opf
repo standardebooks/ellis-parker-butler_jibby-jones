@@ -47,6 +47,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107218</meta>
 		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Jibby Jones</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
