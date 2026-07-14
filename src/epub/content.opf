@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Jibby Jones: A Story of Mississippi River Adventure for Boys</dc:title>
 		<meta property="file-as" refines="#fulltitle">Jibby Jones</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
 		<dc:subject id="subject-2">Boys -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Mississippi River -- Fiction</dc:subject>
