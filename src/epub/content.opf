@@ -52,7 +52,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Jibby Jones</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<dc:abstract>Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.</dc:abstract>
+		<meta property="schema:abstract">Five boys who live near the Mississippi River embark on an adventure to find hidden pirate treasure.</meta>
 		<dc:description>
 			&lt;p&gt;The narrator and his friends, Tad, Skippy, and Wampus, enjoy a calm but playful life in the small community of Birch Island along the Mississippi River. One day, a strange boy who has come to live on their island tries to make their acquaintance. Introducing himself as Oliver Parmenter Jones, or “Jibby Jones” due to his prominent nose, he quickly joins the group after fixing a motorboat and sharing incredible stories of the places he’s been. Despite the group’s initial apprehension, Jibby proves to be a valuable friend: someone to enjoy hijinks and adventures with, while also enduring the occasional innocent prank and exaggerated tale.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Jibby Jones&lt;/i&gt; is a rewrite of twenty-four stories first published between 1921 and 1923 for &lt;i&gt;American Boy&lt;/i&gt; magazine recounting the Riverbank Boys’ quest to discover the treasure of infamous pirate John A. Murrell. With a crudely drawn map serving as their only guide to the treasure, the boys must solve the mystery using their knowledge of the region, all while building up their strength, sense of responsibility, and trust in one another as they face the challenges inherent an exciting quest.&lt;/p&gt;
