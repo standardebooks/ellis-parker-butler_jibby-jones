@@ -39,8 +39,8 @@
 		<meta property="file-as" refines="#fulltitle">Jibby Jones</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
-		<dc:subject id="subject-2">Boys -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Mississippi River -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Boys--Fiction</dc:subject>
+		<dc:subject id="subject-3">Mississippi River--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85001072</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
