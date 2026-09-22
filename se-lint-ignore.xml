@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-18.xhtml">
+		<ignore code="t-015">
+			<line>53</line>
+			<line>55</line>
+			<line>56</line>
+			<line>66</line>
+			<reason>Match is a year.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-19.xhtml">
+		<ignore code="t-015">
+			<line>14</line>
+			<line>31</line>
+			<line>51</line>
+			<line>53</line>
+			<line>58</line>
+			<reason>Match is a year.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-20.xhtml">
+		<ignore code="t-015">
+			<line>14</line>
+			<line>16</line>
+			<line>20</line>
+			<line>25</line>
+			<line>26</line>
+			<line>27</line>
+			<line>83</line>
+			<line>86</line>
+			<line>89</line>
+			<reason>Match is a year.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-23.xhtml">
+		<ignore code="t-015">
+			<line>48</line>
+			<reason>Match is a year.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
